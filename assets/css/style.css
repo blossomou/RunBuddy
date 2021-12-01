@@ -62,7 +62,8 @@ footer h2 {
 }
 
 footer div {
-  float: right;
+  justify-content: space-between;
+  flex-wrap: wrap;
   line-height: 1.5;
   text-align: right;
 }
